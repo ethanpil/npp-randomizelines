@@ -3,7 +3,7 @@
 
 RandomizeLines.py for Notepad++ Python Scripting plugin
 https://github.com/ethanpil/npp-randomizelines
-=====================================================================
+
 A Notepad++ Python Scriping Plugin to randomize lines in the editor
 Version 1.0
 
